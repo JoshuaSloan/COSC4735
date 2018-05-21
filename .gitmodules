@@ -1,0 +1,15 @@
+[submodule "program1-JoshuaSloan"]
+	path = program1-JoshuaSloan
+	url = https://github.com/cosc4735sp17/program1-JoshuaSloan
+[submodule "program2-JoshuaSloan"]
+	path = program2-JoshuaSloan
+	url = https://github.com/cosc4735sp17/program2-JoshuaSloan
+[submodule "program3-JoshuaSloan"]
+	path = program3-JoshuaSloan
+	url = https://github.com/cosc4735sp17/program3-JoshuaSloan
+[submodule "program4-JoshuaSloan"]
+	path = program4-JoshuaSloan
+	url = https://github.com/cosc4735sp17/program4-JoshuaSloan
+[submodule "final-jsloan"]
+	path = final-jsloan
+	url = https://github.com/cosc4735sp17/final-jsloan
